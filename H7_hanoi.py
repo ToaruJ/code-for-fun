@@ -72,5 +72,5 @@ for i in range(3):
     canv.goto(xpole[i], -90)
     canv.down()
     canv.forward(160)
-drawHanoi(5)
+drawHanoi(7)
 scr.exitonclick()
